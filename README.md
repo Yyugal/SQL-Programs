@@ -1,2 +1,1 @@
 # SQL-Programs
-ss
